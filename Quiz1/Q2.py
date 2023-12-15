@@ -1,4 +1,4 @@
-#section542_Q(no.2)_6511171
+
 mylist = input('Enter number(s) separated by space: ')
 x = [int(x) for x in mylist.split(" ")]
 x.remove(max(x))
