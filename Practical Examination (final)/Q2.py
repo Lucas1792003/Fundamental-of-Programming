@@ -1,4 +1,4 @@
-#6511171_Wai_Yan_Paing_Final_Q2
+
 def unHiddenMessage(inStr):
     count1 = 1
     count2 = 3
