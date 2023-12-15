@@ -1,4 +1,4 @@
-#6511171_Wai_Yan_Paing_542_Practical_Midterm_as(2)
+
 word = input('Enter a word: ')
 i = word.upper()
 print(i)
