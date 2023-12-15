@@ -1,4 +1,3 @@
-#section542_Q(no.1)_6511171
 mylist = input('Enter words: ')
 x = [str(x) for x in mylist.split(" ")]
 vowels = ('a', 'e', 'i','o','u','A','E','I','O','U')
