@@ -1,4 +1,4 @@
-#542_Q1_6511171_Wai_Yan
+
 def AlternateLetters(word1,word2):
     if not (word1 and word2):
         return word1 + word2
