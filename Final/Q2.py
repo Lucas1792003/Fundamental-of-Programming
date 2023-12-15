@@ -1,4 +1,4 @@
-#6511171_Wai_Yan_Paing_Final_Q2
+
 zeroCount = 0
 total = 0
 oddList = []
