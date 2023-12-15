@@ -1,4 +1,4 @@
-#6511171_Wai_Yan_Paing_Final_Q3
+
 def keepCenter2or3(list):
     middle = len(list)//2
     if len(list)> 3: 
