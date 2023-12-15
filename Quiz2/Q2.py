@@ -1,4 +1,4 @@
-#542_Q_2_6511171_Wai_Yan
+
 def SumSkip37(numList):
     if len(numList) == 1:
         if numList[0] % 3 != 0 and numList[0] % 7 != 0:
